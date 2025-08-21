@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+pandas
+scikit-learn
+numpy
+langchain
+openai
+tiktoken
+sentence-transformers
+faiss-cpu
