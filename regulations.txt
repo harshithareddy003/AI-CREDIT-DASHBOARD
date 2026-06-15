@@ -1,6 +1,1 @@
-Basel III is a global regulatory framework designed to strengthen regulation, supervision, and risk management in the banking sector.
-
-Key Components:
-- Capital Adequacy: Ensures banks hold sufficient capital to cover their risks.
-- Liquidity Coverage Ratio (LCR): Requires banks to hold enough liquid assets to survive a 30-day stress scenario.
-- Net Stable Funding Ratio (NSFR): Promotes stable funding structures over a longer-term horizon.
+Basel III requires banks to hold sufficient capital reserves.
